@@ -6,10 +6,10 @@
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 @istest
-public class AccountProcessorTest 
+public class  AccountProcessorTest
 {
     @istest
-    public static void testAccountProcessorTest(){
+    public sharing static void testAccountProcessorTest(){
     account acc=new account();
     acc.Name='test name';
     insert acc;
